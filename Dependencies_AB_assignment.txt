@@ -1,0 +1,8 @@
+1.Follow the link for installing alpha vantage tools
+https://github.com/RomelTorres/alpha_vantage
+
+2. Get a free API Key from this link place it in the place of 'API KEY'
+https://www.alphavantage.co/support/#api-key
+
+3. use this command for the plotify library
+pip install plotly==5.11.0
